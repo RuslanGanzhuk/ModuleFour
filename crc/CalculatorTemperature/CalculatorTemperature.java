@@ -16,3 +16,11 @@ public class CalculatorTemperature {
         System.out.println(fahrenheyit.getTemperaturCelsius());
     }
 }
+
+//баг с пакетами
+
+//calTemp - что это значит? Call? Calculate? Еще что-то?
+
+//не могу найти метод mein()
+
+//по две пустые строки подряд - зачем?

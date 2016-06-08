@@ -10,3 +10,7 @@ public class DistanceDot {
         System.out.println(coordinates.getDistanceBetweenDot());
     }
 }
+
+//баг с пакетами
+
+//где метод main()?

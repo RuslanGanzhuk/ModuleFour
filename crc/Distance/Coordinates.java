@@ -23,3 +23,7 @@ public class Coordinates {
              return distanceBetweenDot;
          }
 }
+
+//баг с пакетами
+
+//Форматирование - отступы. Выровняй все.
